@@ -67,4 +67,5 @@ public class Chamados {
 		this.cha_Data_Abertura = cha_Data_Abertura;
 	}
 	
+	
 }
